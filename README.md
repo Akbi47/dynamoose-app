@@ -1,4 +1,5 @@
 This project is configured with dynamoose.
+Crud nestjs app connect with aws platform including dynamodb, dynamoose orm.
 
 ## How to use it
 
